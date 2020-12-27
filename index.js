@@ -11,10 +11,3 @@ function ToggleMenu() {
     menuToggle.classList.toggle('active');
     navigation.classList.toggle('active');
 }
-/*
-$("#menuToggle").click(function () {
-    const menuToggle = document.querySelector('.menuToggle');
-    const navigation = document.querySelector('.navigation');
-    menuToggle.classList.toggle('active');
-    navigation.classList.toggle('active');
-});*/
