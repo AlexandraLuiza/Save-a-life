@@ -1,6 +1,6 @@
 # Save-a-life
 
-My love for dogs determinated me to create a site where people can search for dog adoptions. </font>
+My love for dogs inspired me to create a site where people can search for dog adoptions. </font>
 
 Homepage
 
