@@ -276,7 +276,7 @@ section {
     font-weight: 600;
 }
 
-.contact {
+#contact {
     background: url(./images/bg3.jpg);
     background-size: cover;
 }
